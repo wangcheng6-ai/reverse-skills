@@ -56,6 +56,7 @@ export_dir/
 ### Cursor
 
 1. 点击GitHub 代码页面右上角的绿色按钮, 将本项目下载为压缩包格式
+
 2. 解压压缩包中的plugin文件夹, 将其中的 `reverse-engineering` 文件夹整个放入 `C:\User\<username>\.cursor` ( `<username>` 为本机用户名), 并删除其中的 `.claude-plugin` 文件夹
 
    完成后的目录结构为

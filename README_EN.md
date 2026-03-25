@@ -53,7 +53,8 @@ int __fastcall sub_401000(int a1, int a2)
 
 ## Installation
 
-### Add the Marketplace
+### Claude
+1. Add the Marketplace
 
 ```bash
 # From GitHub
@@ -63,7 +64,28 @@ int __fastcall sub_401000(int a1, int a2)
 /plugin marketplace add /path/to/reverse-skills
 ```
 
-### Install the Plugin
+2. Install the Plugin
+
+### Cursor
+
+1. Download source code on github code page.
+
+2. unzip the source code and locate the `reverse-engineering` folder. Put it into `C:\User\<username>\.cursor` (`<username>` is the local user's account name). Then delete the  `.claude-plugin` folder inside of it.
+
+the final folder structure is:
+
+```
+.
+├── reverse-engineering
+│   └── skills
+│       ├── rev-struct
+│       │   └── SKILL.md
+│       └── rev-symbol
+│           └── SKILL.md
+```
+
+4. restart the cursor.
+
 
 ```bash
 /plugin install reverse-engineering@reverse-engineering-skills
