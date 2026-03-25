@@ -66,6 +66,10 @@ int __fastcall sub_401000(int a1, int a2)
 
 2. Install the Plugin
 
+```bash
+/plugin install reverse-engineering@reverse-engineering-skills
+```
+
 ### Cursor
 
 1. Download source code on github code page.
@@ -86,10 +90,6 @@ the final folder structure is:
 
 4. restart the cursor.
 
-
-```bash
-/plugin install reverse-engineering@reverse-engineering-skills
-```
 
 ## Usage
 
