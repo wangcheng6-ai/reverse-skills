@@ -34,20 +34,6 @@ npx skills update
 npx skills remove rev-symbol rev-struct
 ```
 
-## Usage
-
-### Analyze a Symbol
-
-```
-/rev-symbol sub_401000
-```
-
-### Reconstruct a Structure
-
-```
-/rev-struct sub_401000
-```
-
 ## License
 
 MIT
