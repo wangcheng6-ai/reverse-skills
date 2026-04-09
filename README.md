@@ -13,6 +13,7 @@
 | `rev-symbol` | 从导出表/导入表或反编译代码分析函数符号 |
 | `rev-struct` | 从反编译函数重建数据结构 |
 | `rev-frida` | 使用现代 Frida API 生成动态插桩脚本 |
+| `rev-unicorn-debug` | 使用 Unicorn 引擎模拟执行和调试指定代码片段 |
 
 ## 安装
 
